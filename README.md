@@ -12,18 +12,6 @@ Building minimalist and user-friendly eCommerce experiences.
 - 🌐 [Weather App- React JS and API Integration] (https://github.com/evavillamarin/React-Js--Weather-App)
 - 🌐 [Login-Signup- React JS (Live Preview - https://react-js-login-signup.vercel.app/ )
 
-
----
-
-## ⚙️ Skills
-💠 Shopify (Liquid, JSON Templates, Sections) 
-💠 Wordpress (Woocommerce, Elementor)  
-💻 HTML • CSS • JavaScript  
-💻 React Js  • Bootstrap • Tailwind Css
-💻 PHP  • My SQL • Tailwind Css
-💻 Figma • Adobe Photoshop • Canva
-🧰 Git • GitHub • Vercel • VS Code
-
 ---
 ### 🛠️ Languages and Tools
 
