@@ -43,7 +43,6 @@ Building minimalist and user-friendly eCommerce experiences.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45" alt="Adobe Photoshop" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="45" height="45" alt="Canva" />
-</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 
 </p>
